@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Bradford Malbon - Flute Repair</title>
-    <link>https://bsmalb.github.io/bradford/categories/</link>
+    <link>https://www.bradfordmalbon.com/categories/</link>
     <description>Recent content in Categories on Bradford Malbon - Flute Repair</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://bsmalb.github.io/bradford/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.bradfordmalbon.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
